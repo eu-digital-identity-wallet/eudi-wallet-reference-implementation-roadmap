@@ -6,7 +6,7 @@ Roadmap of the EUDI Wallet reference implementation provides a transparent view 
 ## Introduction to the roadmap
 :eight_spoked_asterisk: View the [roadmap of the EUDI Wallet reference implementation](https://github.com/orgs/eu-digital-identity-wallet/projects/24)
 
-Feature descriptions and details will be updated as their analysis progresses. If the feature is scheduled for implementation, the estimated release schedule is displayed on a quarterly basis. Status of the geature means the following:
+Feature descriptions and details will be updated as their analysis progresses. If the feature is scheduled for implementation, the estimated release schedule is displayed on a quarterly basis. Status of the feature means the following:
 - **Funnel:** Candidate feature for the backlog; decision on implementation pending. 
 - **Backlog:** Feature agreed to be developed and implementation scheduled. 
 - **In Development:** Feature under development. 

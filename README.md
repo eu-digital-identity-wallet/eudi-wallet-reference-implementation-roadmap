@@ -4,7 +4,10 @@ Roadmap of the EUDI Wallet reference implementation provides a transparent view 
 > The EUDI Wallet Reference Implementation is available in open-source. It is developed iteratively, with new features being implemented based on community needs and the evolution of the Architecture Reference Framework. Read more about the [EUDI Wallet Reference Implementation](https://github.com/eu-digital-identity-wallet/.github/blob/main/profile/reference-implementation.md). 
 
 ## Introduction to the roadmap
-:eight_spoked_asterisk: View the [roadmap of the EUDI Wallet reference implementation](https://github.com/orgs/eu-digital-identity-wallet/projects/24)
+> [!IMPORTANT]
+>:grey_exclamation:View the [roadmap of the EUDI Wallet reference implementation](https://github.com/orgs/eu-digital-identity-wallet/projects/24).<br>
+>:speech_balloon:Engage in discussions around the roadmap in the [Discussions](https://github.com/eu-digital-identity-wallet/eudi-wallet-reference-implementation-roadmap/discussions).
+ 
 
 Feature descriptions and details will be updated as their analysis progresses. If the feature is scheduled for implementation, the estimated release schedule is displayed on a quarterly basis. Status of the feature means the following:
 - **Funnel:** Candidate feature for the backlog; decision on implementation pending. 
@@ -21,6 +24,6 @@ To keep the roadmap clear and easy to read, commenting on the roadmap items has 
 ## Share your ideas and comments
 If you have any questions or comments about the features listed on the roadmap or wish to suggest new features, please reach out via 
 
-:speech_balloon: [Discussion about the reference implementation roadmap](https://github.com/eu-digital-identity-wallet/eudi-wallet-reference-implementation-roadmap/discussions)
+:speech_balloon: [Discussion about the reference implementation roadmap](https://github.com/eu-digital-identity-wallet/eudi-wallet-reference-implementation-roadmap/discussions).
 
 If you have any questions or need assistance with using the discussions feature, feel free to reach out to our moderators or the project maintainers. 
